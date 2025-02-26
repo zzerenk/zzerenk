@@ -3,6 +3,7 @@
 
 Zeren Kavaz, currently studying in Gazi University, taking Computer Engineering.
 
-- 🌱 I’m currently learning Adobe Photoshop, Python, CLion
+- 🌱 Python, C, C++, C#, Java, JavaScript
+- Interested in cyber security
 - 📫 How to reach me: zerenkavaz (linkedin)
 
